@@ -1,0 +1,10 @@
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\bin\Debug\netcoreapp2.0\StaticMainMethod.deps.json
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\bin\Debug\netcoreapp2.0\StaticMainMethod.runtimeconfig.json
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\bin\Debug\netcoreapp2.0\StaticMainMethod.runtimeconfig.dev.json
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\bin\Debug\netcoreapp2.0\StaticMainMethod.dll
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\bin\Debug\netcoreapp2.0\StaticMainMethod.pdb
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\obj\Debug\netcoreapp2.0\StaticMainMethod.csproj.CoreCompileInputs.cache
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\obj\Debug\netcoreapp2.0\StaticMainMethod.AssemblyInfoInputs.cache
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\obj\Debug\netcoreapp2.0\StaticMainMethod.AssemblyInfo.cs
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\obj\Debug\netcoreapp2.0\StaticMainMethod.dll
+c:\Users\lukez\OneDrive\Programming\Random\StaticMainMethod\obj\Debug\netcoreapp2.0\StaticMainMethod.pdb

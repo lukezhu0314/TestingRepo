@@ -1,0 +1,10 @@
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\bin\Debug\netcoreapp2.0\MongoDB Testing.deps.json
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\bin\Debug\netcoreapp2.0\MongoDB Testing.runtimeconfig.json
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\bin\Debug\netcoreapp2.0\MongoDB Testing.runtimeconfig.dev.json
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\bin\Debug\netcoreapp2.0\MongoDB Testing.dll
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\bin\Debug\netcoreapp2.0\MongoDB Testing.pdb
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\obj\Debug\netcoreapp2.0\MongoDB Testing.csproj.CoreCompileInputs.cache
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\obj\Debug\netcoreapp2.0\MongoDB Testing.AssemblyInfoInputs.cache
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\obj\Debug\netcoreapp2.0\MongoDB Testing.AssemblyInfo.cs
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\obj\Debug\netcoreapp2.0\MongoDB Testing.dll
+c:\Users\lukez\OneDrive\Programming\Random\MongoDB Testing\obj\Debug\netcoreapp2.0\MongoDB Testing.pdb

@@ -1,0 +1,10 @@
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\obj\Debug\netcoreapp2.0\FieldsandProperties.csproj.CoreCompileInputs.cache
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\obj\Debug\netcoreapp2.0\FieldsandProperties.AssemblyInfoInputs.cache
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\obj\Debug\netcoreapp2.0\FieldsandProperties.AssemblyInfo.cs
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\bin\Debug\netcoreapp2.0\FieldsandProperties.deps.json
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\bin\Debug\netcoreapp2.0\FieldsandProperties.runtimeconfig.json
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\bin\Debug\netcoreapp2.0\FieldsandProperties.runtimeconfig.dev.json
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\bin\Debug\netcoreapp2.0\FieldsandProperties.dll
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\bin\Debug\netcoreapp2.0\FieldsandProperties.pdb
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\obj\Debug\netcoreapp2.0\FieldsandProperties.dll
+c:\Users\lukez\OneDrive\Programming\Random\FieldsandProperties\obj\Debug\netcoreapp2.0\FieldsandProperties.pdb
