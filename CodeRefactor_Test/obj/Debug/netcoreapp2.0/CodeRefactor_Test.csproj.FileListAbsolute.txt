@@ -1,0 +1,10 @@
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\bin\Debug\netcoreapp2.0\CodeRefactor_Test.deps.json
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\bin\Debug\netcoreapp2.0\CodeRefactor_Test.runtimeconfig.json
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\bin\Debug\netcoreapp2.0\CodeRefactor_Test.runtimeconfig.dev.json
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\bin\Debug\netcoreapp2.0\CodeRefactor_Test.dll
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\bin\Debug\netcoreapp2.0\CodeRefactor_Test.pdb
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\obj\Debug\netcoreapp2.0\CodeRefactor_Test.csproj.CoreCompileInputs.cache
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\obj\Debug\netcoreapp2.0\CodeRefactor_Test.AssemblyInfoInputs.cache
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\obj\Debug\netcoreapp2.0\CodeRefactor_Test.AssemblyInfo.cs
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\obj\Debug\netcoreapp2.0\CodeRefactor_Test.dll
+c:\Users\lukez\OneDrive\Programming\CodeRefactor_Test\obj\Debug\netcoreapp2.0\CodeRefactor_Test.pdb
